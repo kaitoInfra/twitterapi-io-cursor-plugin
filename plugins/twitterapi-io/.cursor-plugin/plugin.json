@@ -1,0 +1,15 @@
+{
+  "name": "twitterapi-io",
+  "displayName": "TwitterAPI.io: X (Twitter) Data",
+  "version": "0.1.0",
+  "description": "Search tweets and read X (Twitter) profiles, timelines, replies, quotes, followers and trends from Cursor through the TwitterAPI.io hosted MCP server. 12 read-only tools; no X developer account needed.",
+  "author": {
+    "name": "TwitterAPI.io",
+    "email": "hello@twitterapi.io"
+  },
+  "homepage": "https://twitterapi.io",
+  "repository": "https://github.com/kaitoInfra/twitterapi-io-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["twitter", "x", "tweets", "social-media", "search", "mcp", "data", "research"],
+  "logo": "assets/logo.svg"
+}

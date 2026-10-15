@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "twitterapi-io": {
+      "url": "https://mcp.twitterapi.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:TWITTERAPI_IO_API_KEY}"
+      }
+    }
+  }
+}
